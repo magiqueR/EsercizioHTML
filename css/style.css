@@ -52,12 +52,15 @@ footer {
 @media (max-width: 1024px) {
     .flex-container {
         
-        gap: 16px;
+        
         height: auto;
     }
-    .left,
+    .left{
+        width: 70vw;
+        height: 40vh;
+    }
     .right {
-        width: 100%;
+        width: 200px;
         height: 40vh; /* o auto, scegli tu */
     }
 }
