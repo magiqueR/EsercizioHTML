@@ -61,7 +61,7 @@ footer {
     }
     .right {
         width: 200px;
-        height: 40vh; /* o auto, scegli tu */
+        height: 40vh;
     }
 }
 
@@ -74,7 +74,7 @@ footer {
     .left,
     .right {
         width: 100%;
-        height: 30vh; /* o auto */
+        height: 30vh; 
     }
 }
 
